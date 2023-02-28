@@ -1,0 +1,19 @@
+
+body{ 
+    height: 3000px;
+    background: linear-gradient(180deg, #013221 0%, #335A44 51%, #658267 85% )
+}
+body {
+    background-color: black;
+    font-family: cursive;
+  }
+  
+
+
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    
+  }
+
